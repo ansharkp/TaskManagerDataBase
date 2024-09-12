@@ -1,0 +1,57 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Complete project report",
+      "description": "Finish the final report for the project and submit it to the manager.",
+      "completed": false,
+      "duedate": "2024-12-15",
+      "userid": 1,
+      "categoryid": 1
+    },
+    {
+      "id": 2,
+      "title": "Buy groceries",
+      "description": "Purchase milk, bread, and eggs from the supermarket.",
+      "completed": false,
+      "duedate": "2024-12-10",
+      "userid": 2,
+      "categoryid": 2
+    },
+    {
+      "id": 3,
+      "title": "Book flight tickets",
+      "description": "Book tickets for the upcoming vacation.",
+      "completed": true,
+      "duedate": "2024-12-01",
+      "userid": 1,
+      "categoryid": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Work"
+    },
+    {
+      "id": 2,
+      "name": "Personal"
+    },
+    {
+      "id": 3,
+      "name": "Travel"
+    }
+  ]
+}
