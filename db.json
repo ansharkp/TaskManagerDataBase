@@ -43,7 +43,7 @@
       "completed": true,
       "duedate": "2024-12-20",
       "userid": 2,
-      "categoryid": 4
+      "categoryid": 3
     },
     {
       "id": 6,
@@ -51,8 +51,8 @@
       "description": "Renew the annual gym membership.",
       "completed": false,
       "duedate": "2024-12-25",
-      "userid": 4,
-      "categoryid": 5
+      "userid": 3,
+      "categoryid": 2
     },
     {
       "id": 7,
@@ -60,8 +60,8 @@
       "description": "Organize and plan the birthday party for a friend.",
       "completed": false,
       "duedate": "2024-12-18",
-      "userid": 3,
-      "categoryid": 2
+      "userid": 1,
+      "categoryid": 1
     },
     {
       "id": 8,
@@ -69,7 +69,7 @@
       "description": "Draft and publish a new blog post on the company website.",
       "completed": true,
       "duedate": "2024-12-11",
-      "userid": 1,
+      "userid": 2,
       "categoryid": 3
     },
     {
@@ -78,8 +78,8 @@
       "description": "Take the car to the mechanic for a check-up and repairs.",
       "completed": false,
       "duedate": "2024-12-22",
-      "userid": 4,
-      "categoryid": 4
+      "userid": 3,
+      "categoryid": 2
     },
     {
       "id": 10,
@@ -87,8 +87,143 @@
       "description": "Create slides and practice for the upcoming presentation.",
       "completed": true,
       "duedate": "2024-12-03",
+      "userid": 1,
+      "categoryid": 1
+    },
+    {
+      "id": 11,
+      "title": "Clean house",
+      "description": "Do a thorough cleaning of the house before guests arrive.",
+      "completed": false,
+      "duedate": "2024-12-09",
       "userid": 2,
-      "categoryid": 5
+      "categoryid": 2
+    },
+    {
+      "id": 12,
+      "title": "Read book",
+      "description": "Finish reading the new book by the end of the month.",
+      "completed": false,
+      "duedate": "2024-12-30",
+      "userid": 3,
+      "categoryid": 3
+    },
+    {
+      "id": 13,
+      "title": "Schedule dentist appointment",
+      "description": "Call and schedule an appointment with the dentist.",
+      "completed": true,
+      "duedate": "2024-12-14",
+      "userid": 1,
+      "categoryid": 1
+    },
+    {
+      "id": 14,
+      "title": "Update software",
+      "description": "Install the latest software updates on the office computers.",
+      "completed": false,
+      "duedate": "2024-12-06",
+      "userid": 2,
+      "categoryid": 2
+    },
+    {
+      "id": 15,
+      "title": "Organize files",
+      "description": "Sort and organize all files in the office.",
+      "completed": true,
+      "duedate": "2024-12-08",
+      "userid": 3,
+      "categoryid": 3
+    },
+    {
+      "id": 16,
+      "title": "Prepare dinner",
+      "description": "Cook a special dinner for the family.",
+      "completed": false,
+      "duedate": "2024-12-19",
+      "userid": 1,
+      "categoryid": 1
+    },
+    {
+      "id": 17,
+      "title": "Attend workshop",
+      "description": "Participate in the online workshop on project management.",
+      "completed": true,
+      "duedate": "2024-12-21",
+      "userid": 2,
+      "categoryid": 2
+    },
+    {
+      "id": 18,
+      "title": "Buy birthday gift",
+      "description": "Purchase a birthday gift for a friend.",
+      "completed": false,
+      "duedate": "2024-12-23",
+      "userid": 3,
+      "categoryid": 3
+    },
+    {
+      "id": 19,
+      "title": "Start new project",
+      "description": "Kick off the new project with the team.",
+      "completed": false,
+      "duedate": "2024-12-07",
+      "userid": 1,
+      "categoryid": 1
+    },
+    {
+      "id": 20,
+      "title": "Visit grandparents",
+      "description": "Spend the weekend visiting grandparents.",
+      "completed": false,
+      "duedate": "2024-12-12",
+      "userid": 2,
+      "categoryid": 2
+    },
+    {
+      "id": 21,
+      "title": "Attend conference",
+      "description": "Attend the annual tech conference.",
+      "completed": true,
+      "duedate": "2024-12-04",
+      "userid": 3,
+      "categoryid": 3
+    },
+    {
+      "id": 22,
+      "title": "Water plants",
+      "description": "Water all the indoor and outdoor plants.",
+      "completed": false,
+      "duedate": "2024-12-13",
+      "userid": 1,
+      "categoryid": 1
+    },
+    {
+      "id": 23,
+      "title": "Write thank you notes",
+      "description": "Write thank you notes for the gifts received.",
+      "completed": false,
+      "duedate": "2024-12-24",
+      "userid": 2,
+      "categoryid": 2
+    },
+    {
+      "id": 24,
+      "title": "Take pet to vet",
+      "description": "Schedule a vet appointment for the pet's annual check-up.",
+      "completed": true,
+      "duedate": "2024-12-16",
+      "userid": 3,
+      "categoryid": 3
+    },
+    {
+      "id": 25,
+      "title": "Prepare for exam",
+      "description": "Study and prepare for the upcoming exam.",
+      "completed": false,
+      "duedate": "2024-12-27",
+      "userid": 1,
+      "categoryid": 1
     }
   ],
   "users": [
@@ -106,11 +241,6 @@
       "id": 3,
       "name": "Charlie Brown",
       "email": "charlie.brown@example.com"
-    },
-    {
-      "id": 4,
-      "name": "Diana Prince",
-      "email": "diana.prince@example.com"
     }
   ],
   "categories": [
@@ -125,14 +255,6 @@
     {
       "id": 3,
       "name": "Travel"
-    },
-    {
-      "id": 4,
-      "name": "Finance"
-    },
-    {
-      "id": 5,
-      "name": "Health"
     }
   ]
 }
