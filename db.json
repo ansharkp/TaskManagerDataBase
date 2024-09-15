@@ -26,6 +26,69 @@
       "duedate": "2024-12-01",
       "userid": 1,
       "categoryid": 3
+    },
+    {
+      "id": 4,
+      "title": "Attend team meeting",
+      "description": "Participate in the quarterly team meeting.",
+      "completed": false,
+      "duedate": "2024-12-05",
+      "userid": 3,
+      "categoryid": 1
+    },
+    {
+      "id": 5,
+      "title": "Submit tax documents",
+      "description": "Prepare and submit all necessary tax documents.",
+      "completed": true,
+      "duedate": "2024-12-20",
+      "userid": 2,
+      "categoryid": 4
+    },
+    {
+      "id": 6,
+      "title": "Renew gym membership",
+      "description": "Renew the annual gym membership.",
+      "completed": false,
+      "duedate": "2024-12-25",
+      "userid": 4,
+      "categoryid": 5
+    },
+    {
+      "id": 7,
+      "title": "Plan birthday party",
+      "description": "Organize and plan the birthday party for a friend.",
+      "completed": false,
+      "duedate": "2024-12-18",
+      "userid": 3,
+      "categoryid": 2
+    },
+    {
+      "id": 8,
+      "title": "Write blog post",
+      "description": "Draft and publish a new blog post on the company website.",
+      "completed": true,
+      "duedate": "2024-12-11",
+      "userid": 1,
+      "categoryid": 3
+    },
+    {
+      "id": 9,
+      "title": "Fix car",
+      "description": "Take the car to the mechanic for a check-up and repairs.",
+      "completed": false,
+      "duedate": "2024-12-22",
+      "userid": 4,
+      "categoryid": 4
+    },
+    {
+      "id": 10,
+      "title": "Prepare presentation",
+      "description": "Create slides and practice for the upcoming presentation.",
+      "completed": true,
+      "duedate": "2024-12-03",
+      "userid": 2,
+      "categoryid": 5
     }
   ],
   "users": [
@@ -38,6 +101,16 @@
       "id": 2,
       "name": "Bob Smith",
       "email": "bob.smith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Diana Prince",
+      "email": "diana.prince@example.com"
     }
   ],
   "categories": [
@@ -52,6 +125,14 @@
     {
       "id": 3,
       "name": "Travel"
+    },
+    {
+      "id": 4,
+      "name": "Finance"
+    },
+    {
+      "id": 5,
+      "name": "Health"
     }
   ]
 }
