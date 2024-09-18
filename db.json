@@ -1,260 +1,170 @@
-{
-  "todos": [
+[
     {
-      "id": 1,
-      "title": "Complete project report",
-      "description": "Finish the final report for the project and submit it to the manager.",
-      "completed": false,
-      "duedate": "2024-12-15",
-      "userid": 1,
-      "categoryid": 1
+        "id": 1,
+        "employee_name": "Tiger Nixon",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": ""
     },
     {
-      "id": 2,
-      "title": "Buy groceries",
-      "description": "Purchase milk, bread, and eggs from the supermarket.",
-      "completed": false,
-      "duedate": "2024-12-10",
-      "userid": 2,
-      "categoryid": 2
+        "id": 2,
+        "employee_name": "Garrett Winters",
+        "employee_salary": 170750,
+        "employee_age": 63,
+        "profile_image": ""
     },
     {
-      "id": 3,
-      "title": "Book flight tickets",
-      "description": "Book tickets for the upcoming vacation.",
-      "completed": true,
-      "duedate": "2024-12-01",
-      "userid": 1,
-      "categoryid": 3
+        "id": 3,
+        "employee_name": "Ashton Cox",
+        "employee_salary": 86000,
+        "employee_age": 66,
+        "profile_image": ""
     },
     {
-      "id": 4,
-      "title": "Attend team meeting",
-      "description": "Participate in the quarterly team meeting.",
-      "completed": false,
-      "duedate": "2024-12-05",
-      "userid": 3,
-      "categoryid": 1
+        "id": 4,
+        "employee_name": "Cedric Kelly",
+        "employee_salary": 433060,
+        "employee_age": 22,
+        "profile_image": ""
     },
     {
-      "id": 5,
-      "title": "Submit tax documents",
-      "description": "Prepare and submit all necessary tax documents.",
-      "completed": true,
-      "duedate": "2024-12-20",
-      "userid": 2,
-      "categoryid": 3
+        "id": 5,
+        "employee_name": "Airi Satou",
+        "employee_salary": 162700,
+        "employee_age": 33,
+        "profile_image": ""
     },
     {
-      "id": 6,
-      "title": "Renew gym membership",
-      "description": "Renew the annual gym membership.",
-      "completed": false,
-      "duedate": "2024-12-25",
-      "userid": 3,
-      "categoryid": 2
+        "id": 6,
+        "employee_name": "Brielle Williamson",
+        "employee_salary": 372000,
+        "employee_age": 61,
+        "profile_image": ""
     },
     {
-      "id": 7,
-      "title": "Plan birthday party",
-      "description": "Organize and plan the birthday party for a friend.",
-      "completed": false,
-      "duedate": "2024-12-18",
-      "userid": 1,
-      "categoryid": 1
+        "id": 7,
+        "employee_name": "Herrod Chandler",
+        "employee_salary": 137500,
+        "employee_age": 59,
+        "profile_image": ""
     },
     {
-      "id": 8,
-      "title": "Write blog post",
-      "description": "Draft and publish a new blog post on the company website.",
-      "completed": true,
-      "duedate": "2024-12-11",
-      "userid": 2,
-      "categoryid": 3
+        "id": 8,
+        "employee_name": "Rhona Davidson",
+        "employee_salary": 327900,
+        "employee_age": 55,
+        "profile_image": ""
     },
     {
-      "id": 9,
-      "title": "Fix car",
-      "description": "Take the car to the mechanic for a check-up and repairs.",
-      "completed": false,
-      "duedate": "2024-12-22",
-      "userid": 3,
-      "categoryid": 2
+        "id": 9,
+        "employee_name": "Colleen Hurst",
+        "employee_salary": 205500,
+        "employee_age": 39,
+        "profile_image": ""
     },
     {
-      "id": 10,
-      "title": "Prepare presentation",
-      "description": "Create slides and practice for the upcoming presentation.",
-      "completed": true,
-      "duedate": "2024-12-03",
-      "userid": 1,
-      "categoryid": 1
+        "id": 10,
+        "employee_name": "Sonya Frost",
+        "employee_salary": 103600,
+        "employee_age": 23,
+        "profile_image": ""
     },
     {
-      "id": 11,
-      "title": "Clean house",
-      "description": "Do a thorough cleaning of the house before guests arrive.",
-      "completed": false,
-      "duedate": "2024-12-09",
-      "userid": 2,
-      "categoryid": 2
+        "id": 11,
+        "employee_name": "Jena Gaines",
+        "employee_salary": 90560,
+        "employee_age": 30,
+        "profile_image": ""
     },
     {
-      "id": 12,
-      "title": "Read book",
-      "description": "Finish reading the new book by the end of the month.",
-      "completed": false,
-      "duedate": "2024-12-30",
-      "userid": 3,
-      "categoryid": 3
+        "id": 12,
+        "employee_name": "Quinn Flynn",
+        "employee_salary": 342000,
+        "employee_age": 22,
+        "profile_image": ""
     },
     {
-      "id": 13,
-      "title": "Schedule dentist appointment",
-      "description": "Call and schedule an appointment with the dentist.",
-      "completed": true,
-      "duedate": "2024-12-14",
-      "userid": 1,
-      "categoryid": 1
+        "id": 13,
+        "employee_name": "Charde Marshall",
+        "employee_salary": 470600,
+        "employee_age": 36,
+        "profile_image": ""
     },
     {
-      "id": 14,
-      "title": "Update software",
-      "description": "Install the latest software updates on the office computers.",
-      "completed": false,
-      "duedate": "2024-12-06",
-      "userid": 2,
-      "categoryid": 2
+        "id": 14,
+        "employee_name": "Haley Kennedy",
+        "employee_salary": 313500,
+        "employee_age": 43,
+        "profile_image": ""
     },
     {
-      "id": 15,
-      "title": "Organize files",
-      "description": "Sort and organize all files in the office.",
-      "completed": true,
-      "duedate": "2024-12-08",
-      "userid": 3,
-      "categoryid": 3
+        "id": 15,
+        "employee_name": "Tatyana Fitzpatrick",
+        "employee_salary": 385750,
+        "employee_age": 19,
+        "profile_image": ""
     },
     {
-      "id": 16,
-      "title": "Prepare dinner",
-      "description": "Cook a special dinner for the family.",
-      "completed": false,
-      "duedate": "2024-12-19",
-      "userid": 1,
-      "categoryid": 1
+        "id": 16,
+        "employee_name": "Michael Silva",
+        "employee_salary": 198500,
+        "employee_age": 66,
+        "profile_image": ""
     },
     {
-      "id": 17,
-      "title": "Attend workshop",
-      "description": "Participate in the online workshop on project management.",
-      "completed": true,
-      "duedate": "2024-12-21",
-      "userid": 2,
-      "categoryid": 2
+        "id": 17,
+        "employee_name": "Paul Byrd",
+        "employee_salary": 725000,
+        "employee_age": 64,
+        "profile_image": ""
     },
     {
-      "id": 18,
-      "title": "Buy birthday gift",
-      "description": "Purchase a birthday gift for a friend.",
-      "completed": false,
-      "duedate": "2024-12-23",
-      "userid": 3,
-      "categoryid": 3
+        "id": 18,
+        "employee_name": "Gloria Little",
+        "employee_salary": 237500,
+        "employee_age": 59,
+        "profile_image": ""
     },
     {
-      "id": 19,
-      "title": "Start new project",
-      "description": "Kick off the new project with the team.",
-      "completed": false,
-      "duedate": "2024-12-07",
-      "userid": 1,
-      "categoryid": 1
+        "id": 19,
+        "employee_name": "Bradley Greer",
+        "employee_salary": 132000,
+        "employee_age": 41,
+        "profile_image": ""
     },
     {
-      "id": 20,
-      "title": "Visit grandparents",
-      "description": "Spend the weekend visiting grandparents.",
-      "completed": false,
-      "duedate": "2024-12-12",
-      "userid": 2,
-      "categoryid": 2
+        "id": 20,
+        "employee_name": "Dai Rios",
+        "employee_salary": 217500,
+        "employee_age": 35,
+        "profile_image": ""
     },
     {
-      "id": 21,
-      "title": "Attend conference",
-      "description": "Attend the annual tech conference.",
-      "completed": true,
-      "duedate": "2024-12-04",
-      "userid": 3,
-      "categoryid": 3
+        "id": 21,
+        "employee_name": "Jenette Caldwell",
+        "employee_salary": 345000,
+        "employee_age": 30,
+        "profile_image": ""
     },
     {
-      "id": 22,
-      "title": "Water plants",
-      "description": "Water all the indoor and outdoor plants.",
-      "completed": false,
-      "duedate": "2024-12-13",
-      "userid": 1,
-      "categoryid": 1
+        "id": 22,
+        "employee_name": "Yuri Berry",
+        "employee_salary": 675000,
+        "employee_age": 40,
+        "profile_image": ""
     },
     {
-      "id": 23,
-      "title": "Write thank you notes",
-      "description": "Write thank you notes for the gifts received.",
-      "completed": false,
-      "duedate": "2024-12-24",
-      "userid": 2,
-      "categoryid": 2
+        "id": 23,
+        "employee_name": "Caesar Vance",
+        "employee_salary": 106450,
+        "employee_age": 21,
+        "profile_image": ""
     },
     {
-      "id": 24,
-      "title": "Take pet to vet",
-      "description": "Schedule a vet appointment for the pet's annual check-up.",
-      "completed": true,
-      "duedate": "2024-12-16",
-      "userid": 3,
-      "categoryid": 3
-    },
-    {
-      "id": 25,
-      "title": "Prepare for exam",
-      "description": "Study and prepare for the upcoming exam.",
-      "completed": false,
-      "duedate": "2024-12-27",
-      "userid": 1,
-      "categoryid": 1
+        "id": 24,
+        "employee_name": "Doris Wilder",
+        "employee_salary": 85600,
+        "employee_age": 23,
+        "profile_image": ""
     }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "Alice Johnson",
-      "email": "alice.johnson@example.com"
-    },
-    {
-      "id": 2,
-      "name": "Bob Smith",
-      "email": "bob.smith@example.com"
-    },
-    {
-      "id": 3,
-      "name": "Charlie Brown",
-      "email": "charlie.brown@example.com"
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "name": "Work"
-    },
-    {
-      "id": 2,
-      "name": "Personal"
-    },
-    {
-      "id": 3,
-      "name": "Travel"
-    }
-  ]
-}
+]
